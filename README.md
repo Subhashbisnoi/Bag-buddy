@@ -13,7 +13,7 @@ Bag Buddy EV is a smart luggage system designed to enhance travel convenience by
 
 ## Technical Specifications
 ### Hardware
-- ESP32/Arduino-based microcontroller
+- microcontroller
 - Ultrasonic sensors & LiDAR for obstacle detection
 - GPS module for location tracking
 - Electric motors for movement
